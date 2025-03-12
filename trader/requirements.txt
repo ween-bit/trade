@@ -1,0 +1,26 @@
+# Main Requirements for the Forex Trading Bot System
+
+1. **Technical Analysis Strategies**:
+   - Implement Bollinger Bands for volatility analysis.
+   - Implement MACD for trend-following and momentum.
+   - Implement Fibonacci retracement levels for identifying potential reversal levels.
+   - Implement RSI for measuring the speed and change of price movements.
+
+2. **Chart Analysis**:
+   - Allow users to upload screenshots of charts for analysis.
+   - Analyze uploaded images using the defined strategies to provide actionable insights.
+
+3. **User Interface**:
+   - Create a user-friendly web interface for interaction.
+   - Display analysis results clearly, including recommended actions based on the analysis.
+
+4. **Data Handling**:
+   - Ensure proper handling and storage of uploaded files.
+   - Implement error handling for file uploads and analysis processes.
+
+5. **Testing and Validation**:
+   - Validate the accuracy of the analysis results.
+   - Ensure the system is robust and can handle various input scenarios.
+
+6. **Documentation**:
+   - Provide clear documentation for users on how to use the system and interpret results.
